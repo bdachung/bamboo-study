@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/bdachung/bamboo-study/static/css/main.9fed0b5c.css",
+    "main.js": "/bdachung/bamboo-study/static/js/main.4a44f8a3.js",
+    "static/js/453.eb85d0bb.chunk.js": "/bdachung/bamboo-study/static/js/453.eb85d0bb.chunk.js",
+    "static/media/panda-logo.png": "/bdachung/bamboo-study/static/media/panda-logo.577926a1d3f700b7fd56.png",
+    "static/media/panda-home.png": "/bdachung/bamboo-study/static/media/panda-home.008c12e4c1bd5a492d34.png",
+    "index.html": "/bdachung/bamboo-study/index.html",
+    "main.9fed0b5c.css.map": "/bdachung/bamboo-study/static/css/main.9fed0b5c.css.map",
+    "main.4a44f8a3.js.map": "/bdachung/bamboo-study/static/js/main.4a44f8a3.js.map",
+    "453.eb85d0bb.chunk.js.map": "/bdachung/bamboo-study/static/js/453.eb85d0bb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9fed0b5c.css",
+    "static/js/main.4a44f8a3.js"
+  ]
+}
